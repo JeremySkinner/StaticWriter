@@ -1,0 +1,1 @@
+Once complete, StaticWriter will allow you to save Windows Live Writer posts as a static site using Jekyll (https://github.com/mojombo/jekyll) 
